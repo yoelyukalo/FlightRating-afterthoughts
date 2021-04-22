@@ -1,0 +1,2 @@
+module UserAirlinesHelper
+end

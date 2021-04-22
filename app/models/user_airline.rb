@@ -1,0 +1,2 @@
+class UserAirline < ApplicationRecord
+end
