@@ -1,5 +1,4 @@
 Rails.application.routes.draw do
-  resources :user_airlines
   resources :reviews
   resources :airlines
   resources :users

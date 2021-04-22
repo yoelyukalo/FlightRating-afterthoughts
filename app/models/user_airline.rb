@@ -1,2 +1,0 @@
-class UserAirline < ApplicationRecord
-end
